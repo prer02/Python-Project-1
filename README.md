@@ -31,7 +31,9 @@ Addressed the following questions:
 9. Find the mean and median of the median income for the data set created in question 8.
 10. Please create a new column named total_bedroom_size. If the total bedrooms is 10 or less, it should be quoted as small. If the total bedrooms is 11 or more but less than 1000, it should be medium, otherwise it should be considered large.
 
-Make sure to have the required dependencies installed (Pandas, Matplotlib, Seaborn).
+Dependencies installed for the project. (Pandas, Matplotlib, Seaborn)
+
+
 pip install pandas matplotlib seaborn
 
 Used the Jupyter Notebook to execute the analysis and visualize the results.
