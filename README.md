@@ -18,7 +18,7 @@ The dataset consists of following features:
 
 
 
-Addressed the following questions:
+# *Addressed the following questions:*
 
 1. What is the average median income of the data set and check the distribution of data using appropriate plots. Please explain the distribution of the plot.
 2. Draw an appropriate plot to see the distribution of housing_median_age and explain your observations.
