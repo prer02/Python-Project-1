@@ -33,8 +33,9 @@ The dataset consists of following features:
 
 # *Dependencies installed for the project. (Pandas, Matplotlib, Seaborn)*
 
-
+   ---bash---
 # *pip install pandas matplotlib seaborn*
+   ---bash---
 
 # *Used the Jupyter Notebook to execute the analysis and visualize the results.*
 
